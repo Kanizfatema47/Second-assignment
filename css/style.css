@@ -212,11 +212,11 @@ header .inner-header nav ul li a{
 
 .box .inner-box .text h2{
     font-size: 28px;
-    padding-top: 10px;
     padding-bottom: 10px;
     font-weight: 500;
     margin: 0px;
-} */
+ 
+} 
 
 
 
@@ -447,46 +447,3 @@ footer{
 }
 
 
-/* style for fooer */
-
- /* footer{
-    background-color: rgb(14, 10, 78);
-}
-
-
-.inner-footer{
-    display: flex;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    flex-direction: column;
-    align-items: center;
-}
-.inner-footer h3{
-    color: white;
-    font-size: 28px;
-    font-weight: 600;
-    padding-bottom: 8px;
-    margin: 0px;
-}
-.inner-footer p{
-    margin:0px;
-    padding-bottom: 8px;
-    color: white;
-    
-}
-.inner-footer span{
-    color: white;
-    padding-bottom: 14px;
-}
-.inner-footer .social-icon span{
-    background-color: #3a3a3a85;
-    padding: 8px;
-    border-radius: 50%;
-    text-align: center;
-
-} 
-.inner-footer .fab{
-    width: 22px;
-    
-} */
-/* End */
